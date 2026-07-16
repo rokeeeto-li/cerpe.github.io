@@ -1,6 +1,6 @@
 # CERPE Project Page
 
-Camera-ready project page for **Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**.
+Project page for **Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**.
 
 The page is a static site. Open `index.html` directly or serve the repository root with any static HTTP server.
 
